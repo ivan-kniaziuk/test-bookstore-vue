@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Мартин Иден",
+    "author": "Джек Лондон",
+    "price": 10,
+    "publication": 2015,
+    "cover": "/cover.png"
+  },
+  {
+    "id": 2,
+    "title": "Странник по звездам",
+    "author": "Джек Лондон",
+    "price": 8.99,
+    "publication": 2021,
+    "cover": "/cover.png"
+  },
+  {
+    "id": 3,
+    "title": "Маленькая хозяйка большого дома",
+    "author": "Джек Лондон",
+    "price": 12,
+    "publication": 2016,
+    "cover": "/cover.png"
+  },
+  {
+    "id": 4,
+    "title": "Белый клык",
+    "author": "Джек Лондон",
+    "price": 9.99,
+    "publication": 2021,
+    "cover": "/cover.png"
+  },
+  {
+    "id": 5,
+    "title": "Люди бездны",
+    "author": "Джек Лондон",
+    "price": 15,
+    "publication": 2024,
+    "cover": "/cover.png"
+  },
+  {
+    "id": 6,
+    "title": "Сердца трех",
+    "author": "Джек Лондон",
+    "price": 14,
+    "publication": 2023,
+    "cover": "/cover.png"
+  },
+  {
+    "id": 7,
+    "title": "Сердца трех",
+    "author": "Джек Лондон",
+    "price": 14,
+    "publication": 2023,
+    "cover": "/cover.png"
+  },
+  {
+    "id": 8,
+    "title": "Мятеж на \"Эльсиноре\"",
+    "author": "Джек Лондон",
+    "price": 18.22,
+    "publication": 2023,
+    "cover": "/cover.png"
+  },
+  {
+    "id": 9,
+    "title": "Морскойволкоченьбольшойтайтлукнигиизодногослова",
+    "author": "Джек Лондон",
+    "price": 19,
+    "publication": 2023,
+    "cover": "/cover.png"
+  }
+]
